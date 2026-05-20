@@ -55,15 +55,6 @@ I'm a trained **Data Analyst** passionate about leveraging data insights to solv
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DorathyIkechukwu&theme=radical" alt="streak stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=DorathyIkechukwu&show_icons=true&theme=radical" alt="github stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorathyIkechukwu&layout=compact&theme=radical" alt="top languages" />
-</div>
 
 ---
 
@@ -72,9 +63,8 @@ I'm a trained **Data Analyst** passionate about leveraging data insights to solv
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dorathy-ikechukwu)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yourphonenumber)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dorathyikechukwu@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/07040332253)
 
 </div>
 
