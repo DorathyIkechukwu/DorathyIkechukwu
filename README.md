@@ -1,65 +1,93 @@
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=128&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=true&fontSize=90&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&desc=Data%20Analyst%20|%20Python%20Developer&descSize=25&descAlign=50&descAlignY=65" alt="header"/>
 </div>
 
-###
+---
 
-<h1 align="left">Hey 👋 there </h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="32px" alt="wave"/>
+  Hello, I'm Dorathy Ikechukwu
+</h1>
 
-###
+<h3 align="center">📊 Data Analyst | 🐍 Python Developer | 📈 Data Visualization Enthusiast</h3>
 
-<p align="left">My name is Dorathy and I'm a trained Data Analyst interested in solving problems from data insight from Africa, Nigeria in the west  Africa time Zone.</p>
+<p align="center">
+  Transforming African data into actionable insights | Based in Nigeria 🇳🇬
+</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 👋 About Me
 
-###
+I'm a trained **Data Analyst** passionate about leveraging data insights to solve real-world problems across Africa. I specialize in:
 
-<p align="left">🔭 I’m currently working on creating projects to build my skill <br>📚 I'm currently learning Python and Data Visualization on Power BI <br>🎯 Goals: is using data insights to solve healthcare and Business problems.<br>🎲 Fun fact: I enjoy singing and reading inspirational books.</p>
+- 📊 **Data Analysis & Visualization** using Power BI and Python
+- 🐍 **Python Programming** for data processing and automation
+- 🔍 **Business Intelligence** to drive data-informed decision-making
+- 🌍 **African Development** - Using data to create impact in emerging markets
 
-###
+**Current Focus:**
+- 🔭 Building portfolio projects to strengthen technical skills
+- 📚 Deepening expertise in Python and Power BI
+- 🎯 Using data insights to support African innovation and growth
 
-<h2 align="left">I code with</h2>
+---
 
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div>
-
-###
+## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DorathyIkechukwu/DorathyIkechukwu/stats-output/stats.svg" height="150" alt="stats graph"  />
+
+### Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Platforms & Services
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
 </div>
 
-###
+---
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=DorathyIkechukwu.DorathyIkechukwu&left_color=darkgray&right_color=blue"  />
+## 📈 GitHub Stats
 
-###
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DorathyIkechukwu&theme=radical" alt="streak stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DorathyIkechukwu&show_icons=true&theme=radical" alt="github stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorathyIkechukwu&layout=compact&theme=radical" alt="top languages" />
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dorathy-ikechukwu)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yourphonenumber)
+
+</div>
+
+---
+
+## 💡 Featured Projects
+
+*Your projects will be showcased here. Add links to your best work!*
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DorathyIkechukwu.DorathyIkechukwu&left_color=2E3440&right_color=88C0D0&left_text=Visitors" alt="visitor badge" />
+  
+  <p><strong>Thanks for visiting! Feel free to connect with me.</strong></p>
+</div>
